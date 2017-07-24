@@ -1,0 +1,4 @@
+#Mon Jul 24 16:32:03 EEST 2017
+base.0=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

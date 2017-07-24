@@ -1,0 +1,7 @@
+#Mon Jul 24 16:30:15 EEST 2017
+base.0=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2fbd13bac0ba4b14e22e31013f0778e9d007d114
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e61626ae8d75d47f9a6e046f37f61b1305a96c33/classes.dex
+base.1=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e61626ae8d75d47f9a6e046f37f61b1305a96c33
+file.0=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2fbd13bac0ba4b14e22e31013f0778e9d007d114/classes.dex
