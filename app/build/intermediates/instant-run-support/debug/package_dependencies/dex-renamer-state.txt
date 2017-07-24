@@ -1,4 +1,4 @@
-#Fri Jul 14 15:02:23 EEST 2017
+#Mon Jul 24 17:12:26 EEST 2017
 file.2=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_773255c52035fa98791bdf1aab383fb740927802/classes.dex
 base.2=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_773255c52035fa98791bdf1aab383fb740927802
 file.1=/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da5c0b8f7fde70f07b64b5f77cca113946e2d524/classes.dex
