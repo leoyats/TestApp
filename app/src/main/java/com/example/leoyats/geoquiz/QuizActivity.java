@@ -14,6 +14,7 @@ public class QuizActivity extends AppCompatActivity {
     private ImageButton mPreviousButton;
     private ImageButton mNextButton;
     private TextView mQuestionTextView;
+    private TextView mNextTextView;
     private Question[] mQuestionsBank = new Question[] {
             new Question(R.string.question_africa, false),
             new Question(R.string.question_americas, true),
@@ -78,6 +79,15 @@ public class QuizActivity extends AppCompatActivity {
         });
 
         updateQuestion();
+
+        mNextTextView = (TextView)findViewById(R.id.question_text_view);
+        mNextTextView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mCurrentIndex = (mCurrentIndex + 1) % mQuestionsBank.length;
+                updateQuestion();
+            }
+        });
 
         mNextButton = (ImageButton)findViewById(R.id.next_button);
         mNextButton.setOnClickListener(new View.OnClickListener() {

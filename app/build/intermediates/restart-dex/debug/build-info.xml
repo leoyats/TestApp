@@ -6,22 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1500903118834"
+    timestamp="1500903897253"
     token="-4678490258774699162"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1396" />
+        duration="308" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="134" />
+        duration="51" />
     <task
         name="verifier"
-        duration="43" />
+        duration="3" />
 
     <artifact
         location="/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1500903118834"
+        timestamp="1500903897253"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/leoyats/WORK/euro-taxi/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
